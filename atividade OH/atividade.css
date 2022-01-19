@@ -1,0 +1,19 @@
+#title, .subtitle, .post_title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;}
+.subtitle {
+    color: white;
+    font: size 20px;}
+.post_title {
+    color:white;
+    font: size 20px;}
+.header { 
+    size: 50px; 
+    border-radius: 8%; 
+    background-color: rgb(77, 102, 248);}
+img {
+    size: 5cm;
+    border-radius: 50%;
+}
+body {
+    background-color: black;
+}
